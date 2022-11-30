@@ -1,0 +1,15 @@
+
+# dependencies
+/node_modules
+
+/.env
+
+/package-lock.json
+
+/package.json
+
+../.hintrc
+
+../.vscode
+
+../.git
